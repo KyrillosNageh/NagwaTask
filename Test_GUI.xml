@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Nagwa Regression GUI Suite">
+  <test name="Test">
+    <classes>
+      <class name="gui.tests.TCs_HomePage"/>
+      <class name="gui.tests.TCs_SearchPage"/>
+      <class name="gui.tests.TCs_LessonsPage"/>
+      <class name="gui.tests.TCs_LessonWorksheetPage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
